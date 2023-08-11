@@ -1,0 +1,42 @@
+@media (max-width: 500px) {
+  .main-title h2 {
+    font-size: 1.7rem;
+  }
+  .main-title h2 span {
+    font-size: 1.7rem;
+  }
+}
+@media (max-width: 970px) {
+  .right-header .name {
+    font-size: 2rem !important;
+    text-align: center;
+    padding-top: 3rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .controls .control {
+    padding: 1rem;
+    cursor: pointer;
+    background-color: var(--color-grey-4);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1.5rem 3px;
+    box-shadow: var(--box-shadow-1);
+  }
+}
+@media (max-width: 500px) {
+  .main-title h2 .bg-text {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .main-title h2 {
+    font-size: 1.4rem;
+  }
+}
